@@ -47,7 +47,7 @@
 			"Comment [Provides 3 Strategy Resources]",
 			"Only available <for [Human player] Civilizations><hidden from users>"
     ]
-  },
+  }/*,
   {
     "name": "Local Syndicate of Bonus Resources",
 		"cost": 0,
@@ -64,5 +64,5 @@
 			"Comment [Provides 3 Bonus Resources]",
 			"Only available <for [Human player] Civilizations><hidden from users>"
     ]
-  }
+  }*/
 ]
