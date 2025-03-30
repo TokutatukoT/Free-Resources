@@ -6,6 +6,7 @@
 		"uniques": [
 			"Can be purchased with [Gold] [in capital]",
 			"Moves to new capital when capital changes",
+			"Comment [Provides 3 of each type of Luxury Resource]",
 			"Provides [3] [Furs]",
 			"Provides [3] [Cotton]",
 			"Provides [3] [Dyes]",
@@ -28,7 +29,6 @@
 			"Provides [3] [Truffles]",
 			"Provides [3] [Jewelry]",
 			"Provides [3] [Porcelain]",
-			"Comment [Provides 3 Luxury Resources]",
 			"Only available <for [Human player] Civilizations><hidden from users>"
     ]
   },
