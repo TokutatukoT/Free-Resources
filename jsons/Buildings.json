@@ -6,7 +6,6 @@
 		"uniques": [
 			"Can be purchased with [Gold] [in capital]",
 			"Moves to new capital when capital changes",
-			"Comment [Provides 3 of each type of Luxury Resource]",
 			"Provides [3] [Furs]",
 			"Provides [3] [Cotton]",
 			"Provides [3] [Dyes]",
@@ -31,6 +30,7 @@
 			"Provides [3] [Porcelain]",
 			"Only available <for [Human player] Civilizations><hidden from users>"
     ]
+	  	"replacementTextForUniques": "Can be purchased with Gold in capital\nMoves to new capital when capital changes\nProvides 3 of each type of Luxury Resource"
   },
   {
     "name": "Local Syndicate of Strategy Resources",
@@ -38,15 +38,15 @@
 		"uniques": [
 			"Can be purchased with [Gold] [in all cities]",
 			"Destroyed when the city is captured",
-			"Provides [3] [Horses]",
-			"Provides [3] [Iron]",
-			"Provides [3] [Coal]",
-			"Provides [3] [Oil]",
-			"Provides [3] [Aluminum]",
-			"Provides [3] [Uranium]",
-			"Comment [Provides 3 Strategy Resources]",
+			"Provides [3] [Horses] <after discovering [Animal Husbandry]>",
+			"Provides [3] [Iron] <after discovering [Iron Working]>",
+			"Provides [3] [Coal] <after discovering [Industrialization]>",
+			"Provides [3] [Oil] <after discovering [Biology]>",
+			"Provides [3] [Aluminum] <after discovering [Electricity]>",
+			"Provides [3] [Uranium] <after discovering [Atomic Theory]>",
 			"Only available <for [Human player] Civilizations><hidden from users>"
     ]
+	  	"replacementTextForUniques": "Can be purchased with Gold in all cities\nDestroyed when the city is captured\nProvides 3 of each type of Strategy Resource"
   }/*,
   {
     "name": "Local Syndicate of Bonus Resources",
